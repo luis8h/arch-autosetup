@@ -9,5 +9,6 @@
 -   reboot: `exit` and `shutdown -h now`
 -   enable gnome display manager: `sudo systemctl enable gdm.service`
 -   start display manager: `sudo sytemctl start gdm.service` or reboot if it does not work
+-   open settings and manually set alternate characters key to `right ctrl` and compose key to `right alt`
 
 #### dual boot with disk encryption

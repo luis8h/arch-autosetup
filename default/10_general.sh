@@ -7,4 +7,8 @@ gsettings set org.gnome.desktop.input-sources xkb-options "['caps:escape_shifted
 gsettings set org.gnome.desktop.peripherals.mouse accel-profile 'flat'
 
 # compose key to right alt for german umlaute
-setxkbmap -option compose:ralt
+gsettings set org.gnome.desktop.input-sources xkb-options "['compose:ralt']"
+
+sudo pacman -S --noconfirm neofetch
+
+
