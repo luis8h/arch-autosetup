@@ -7,6 +7,7 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # packages
 sudo pacman -S --noconfirm kitty
+sudo pacman -S --noconfirm zsh
 sudo pacman -S --noconfirm tree
 sudo pacman -S --noconfirm fzf
 sudo pacman -S --noconfirm zoxide
