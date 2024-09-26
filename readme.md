@@ -15,3 +15,4 @@
 
 ## notes
 -   after running an install script run `dotfiles.sh` again to ensure the dotfiles are up to date (note that this may delete the default dotfiles created when installing a program)
+-   when using a vm enable 3d accelaration to run hyprland
