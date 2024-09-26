@@ -1,6 +1,5 @@
-## automatic arch setup
 
-### install arch
+## install arch
 
 #### default
 -   [video](https://www.youtube.com/watch?v=8YE1LlTxfMQ&t=319s)
