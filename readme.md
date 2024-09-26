@@ -12,3 +12,6 @@
 -   open settings and manually set alternate characters key to `right ctrl` and compose key to `right alt`
 
 #### dual boot with disk encryption
+
+## notes
+-   after running an install script run `dotfiles.sh` again to ensure the dotfiles are up to date (note that this may delete the default dotfiles created when installing a program)
